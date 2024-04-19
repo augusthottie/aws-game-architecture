@@ -11,7 +11,7 @@ To achieve our goals, we must address key challenges such as:
 - Extending the gaming experience beyond the virtual realm through unique features like NFT integration.
 
 ## Architecture Diagram
-![image](https://github.com/AugustHottie/aws-game-architecture/assets/96122635/9f1e523b-2e27-4f9b-ad8b-fb21cde240a4)
+![game-arc](https://github.com/AugustHottie/aws-game-architecture/assets/96122635/0a9c3bf7-fa04-41ba-8df0-66cfb9193000)
 
 ### Key Components:
 - AWS CloudFront: Provides high availability and low latency for user interactions with the game application.
